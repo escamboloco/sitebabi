@@ -7,4 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://escamboloco.github.io/sitebabi/sitemap.xml
+Sitemap: https://pinkbronzediadema.onrender.com/sitemap.xml
